@@ -415,7 +415,7 @@ components:
                     description: Purpose of the transaction
                     type: string
             example:
-                accountFrom: RU000000001
+                accountFrom: abc0d3949b73af69489183f5e5d2760537c
                 accountTo: BY000000001
                 amount: 1500000000
                 explanation: Don’t go spend it all at once
@@ -444,7 +444,7 @@ components:
                     description: Sender's name
                     type: string
             example:
-                accountFrom: RU000000001
+                accountFrom: abc0d3949b73af69489183f5e5d2760537c
                 accountTo: BY000000002
                 amount: 1500000000
                 currency: USD
